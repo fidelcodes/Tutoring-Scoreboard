@@ -2,7 +2,7 @@
 
 A simple, modular Java console application designed for managing and tracking individual player scores, complete with dynamic ranking and persistent data storage.
 
-This project was developed for practical use in educational settings but is applicable for any scenario requiring lightweight console-based data management and visualization.
+This project was originally developed in October of 2025 for practical use in educational settings but is applicable for any scenario requiring lightweight console-based data management and visualization.
 
 ## Project Highlights
 
